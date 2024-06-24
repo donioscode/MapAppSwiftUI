@@ -17,6 +17,7 @@
 		918DF6CF2C282D940035EC4F /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918DF6CE2C282D940035EC4F /* LocationsViewModel.swift */; };
 		918DF6D12C2841490035EC4F /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918DF6D02C2841490035EC4F /* LocationsListView.swift */; };
 		918DF6D32C284CF50035EC4F /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918DF6D22C284CF50035EC4F /* LocationPreviewView.swift */; };
+		918DF6D52C29AEB20035EC4F /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 918DF6D42C29AEB20035EC4F /* LocationMapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		918DF6CE2C282D940035EC4F /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 		918DF6D02C2841490035EC4F /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 		918DF6D22C284CF50035EC4F /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
+		918DF6D42C29AEB20035EC4F /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				918DF6CA2C282ACD0035EC4F /* LocationsView.swift */,
 				918DF6D02C2841490035EC4F /* LocationsListView.swift */,
 				918DF6D22C284CF50035EC4F /* LocationPreviewView.swift */,
+				918DF6D42C29AEB20035EC4F /* LocationMapAnnotationView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				918DF6C92C2829C80035EC4F /* LocationsDataService.swift in Sources */,
+				918DF6D52C29AEB20035EC4F /* LocationMapAnnotationView.swift in Sources */,
 				918DF6D12C2841490035EC4F /* LocationsListView.swift in Sources */,
 				918DF6D32C284CF50035EC4F /* LocationPreviewView.swift in Sources */,
 				918DF6CF2C282D940035EC4F /* LocationsViewModel.swift in Sources */,
